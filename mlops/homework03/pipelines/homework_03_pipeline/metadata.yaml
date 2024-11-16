@@ -67,7 +67,7 @@ blocks:
   language: python
   name: save
   retry_config: null
-  status: not_executed
+  status: executed
   timeout: null
   type: data_exporter
   upstream_blocks:
